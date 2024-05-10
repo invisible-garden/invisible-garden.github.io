@@ -1,0 +1,11 @@
+:root {
+    --bg-color: #fafafa;
+    --text-color-title: #000000;
+    --text-color-content: #262626;
+    --text-color-secondary: #595959;
+    --text-color-aid: #8c8c8c;
+    --text-color-tip: #bfbfbf;
+
+    /*   主题色  */
+    --theme-color-primary: #191919;
+}
