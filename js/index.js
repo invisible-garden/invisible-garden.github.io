@@ -18,12 +18,12 @@ createApp({
                 },
                 {
                     index: 1,
-                    lang: "Thailand",
+                    lang: "ไทย",
                     langName: "泰文",
                 },
                 {
                     index: 2,
-                    lang: "Chinese",
+                    lang: "中文",
                     langName: "中文",
                 },
             ]
